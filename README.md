@@ -6,7 +6,7 @@ This is a python script through which you can download the Apod-Astronomy Pictur
 - Just enter your first name, last name and email address. Then click signup.
 - It will give you an API key.
 - Now go to the folder and open your shell and type:
-```
+```bash
 pip3 install -r requirements.txt
 OR
 pip install -r requirements.txt
