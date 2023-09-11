@@ -1,6 +1,7 @@
 # Apod-Pic-Downloader
 
-[![CodeFactor](https://www.codefactor.io/repository/github/vedabahu/apod-pic-downloader/badge)](https://www.codefactor.io/repository/github/vedabahu/apod-pic-downloader) is a python script through which you can download the Apod-Astronomy Picture Of the Day. 
+[![CodeFactor](https://www.codefactor.io/repository/github/vedabahu/apod-pic-downloader/badge)](https://www.codefactor.io/repository/github/vedabahu/apod-pic-downloader)
+Apod Pic Downloader is a python script through which you can download the Apod-Astronomy Picture Of the Day. 
 
 - First thing you need to do is go to [Nasa API Website](https://api.nasa.gov) and get your api key.
   ![image](https://user-images.githubusercontent.com/79869936/140805147-ec654c62-6308-41bb-a65d-7d3ba08c8ba5.png)
